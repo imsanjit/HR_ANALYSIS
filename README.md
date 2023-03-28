@@ -1,6 +1,8 @@
 # HR Analysis
 
-A brief description of what this project does and who it's for
+HR report is an analytical method used to display human resources-related stats, insights, and metrics with the primary purpose of improving workforce performance, recruiting procedures, and other relevant HR processes with the help of HR dashboards.
+
+
 
 ### Dataset
 
