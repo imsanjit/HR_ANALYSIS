@@ -12,4 +12,19 @@ All files are in dataset folder.
 
 #### 1st Page 
 
+![App Screenshot](Images/index.PNG)
+
+#### 2nd Page 
+
 ![App Screenshot](Images/overview.PNG)
+
+#### 3rd Page 
+
+![App Screenshot](Images/action.PNG)
+
+#### 4th Page 
+
+![App Screenshot](Images/details.PNG)
+
+### Conclusion
+
