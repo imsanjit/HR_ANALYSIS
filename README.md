@@ -38,3 +38,4 @@ All files are in dataset folder.
 
 ### Conclusion
 
+HR reporting and HR dashboards are often a stepping stone for organizations that want to move towards HR analytics – and that’s why this subject is so important. Depending on the company that you work for, different data will be relevant. 
